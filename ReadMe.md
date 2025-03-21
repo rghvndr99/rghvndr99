@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rghvndr99@gamil.com**
 
-- ⚡ Fun fact ** not just an experienced engineer with in computing—I am also a musical multitasker! Balancing code with melodies, I can debug a program by day and serenade the world with voice and flute by nigh**
+- ⚡ Fun fact:  not just an experienced engineer with in computing—I am also a musical multitasker! Balancing code with melodies, I can debug a program by day and serenade the world with voice and flute by nigh
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
