@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghvendra Dixit,</h1>
+<h1 align="center">Hi 👋, I'm Raghvendra Dixit</h1>
 <h3 align="center">I love tackling complex engineering challenges, optimizing system performance, and contributing to open-source projects. Always eager to learn, mentor, and collaborate with fellow developers. Open to discussions on architecture, best practices, and emerging technologies. I am Passionate about building scalable, high-performance systems and writing clean, efficient code. Feel free to explore my repositories and reach out!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rghvndr99&label=Profile%20views&color=0e75b6&style=flat" alt="rghvndr99" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rghvndr99@gamil.com**
 
-- ⚡ Fun fact **You're not just an experienced engineer with in computing—I am also a musical multitasker! Balancing code with melodies, I can debug a program by day and serenade the world with voice and flute by nigh**
+- ⚡ Fun fact ** not just an experienced engineer with in computing—I am also a musical multitasker! Balancing code with melodies, I can debug a program by day and serenade the world with voice and flute by nigh**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
