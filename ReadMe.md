@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React,Javascript, Node, Express, Rest, MongoDB, Typescript**
 
-- 📫 How to reach me **rghvndr99@gamil.com**
+- 📫 How to reach me **rghvndr99@gmail.com**
 
 - ⚡ Fun fact:  not just an experienced engineer with in computing—I am also a musical multitasker! Balancing code with melodies, I can debug a program by day and serenade the world with voice and flute by nigh
 
